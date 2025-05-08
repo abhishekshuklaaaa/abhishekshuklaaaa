@@ -7,7 +7,7 @@
 - 🔧 Skilled in full-stack development and problem-solving  
 - 🚀 Seeking full-time opportunities to grow professionally  
 - 🌱 Open to collaborations, learning, and cool projects
-- 
+ 
 
 
 # 💻 Tech Stack:
