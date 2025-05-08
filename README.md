@@ -6,7 +6,8 @@
 - 🌍 4+ years of freelancing experience with international clients  
 - 🔧 Skilled in full-stack development and problem-solving  
 - 🚀 Seeking full-time opportunities to grow professionally  
-- 🌱 Open to collaborations, learning, and cool projects  
+- 🌱 Open to collaborations, learning, and cool projects
+- 
 
 
 # 💻 Tech Stack:
@@ -32,15 +33,22 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-shukla7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekshuklaforyou@gmail.com)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhishekShukla07)
+
+
+
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekshuklaaaa&theme=dark&hide_border=false" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshuklaaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" />
 </p>
+
+
 
 ### ✍️ Dev Quote
 <p align="center">
