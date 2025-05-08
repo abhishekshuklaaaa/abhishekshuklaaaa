@@ -49,11 +49,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abhishekshuklaaaa&icon=0&color=0" width="49%" />
-  </a>
-</p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
