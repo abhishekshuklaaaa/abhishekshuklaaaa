@@ -36,7 +36,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-shukla7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekshuklaforyou@gmail.com)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhishekShukla07)
-
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekshuklaaaa&theme=dark&hide_border=false" width="49%" />
@@ -44,11 +43,17 @@
 </p>
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="49%" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhishekshuklaaaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=abhishekshuklaaaa&icon=0&color=0" width="49%" />
+  </a>
+</p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
