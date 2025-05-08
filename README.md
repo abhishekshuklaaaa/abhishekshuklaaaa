@@ -1,5 +1,5 @@
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 👋 Hey, I'm Abhishek Shukla<br><br>💻 Software Developer | 🌍 Freelancer | 🚀 Job Seeker<br><br>🔧 Passionate about coding and building impactful software solutions.<br><br>🌎 Have been working as a freelancer with international clients for the past 4 years.<br><br>💡 Skilled in full-stack development with hands-on experience in real-world projects.<br><br>🧠 Always eager to learn new technologies and take on exciting challenges.<br><br>🎯 Currently looking for a full-time opportunity to gain fresh tech experience and grow professionally.<br><br>🌱 Open to collaborating on innovative projects, startups, and tech communities.<br><br>
