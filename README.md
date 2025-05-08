@@ -1,9 +1,8 @@
 
 <img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 
-# 💫 About Me:
-👋 Hey, I'm Abhishek Shukla<br><br>💻 Software Developer | 🌍 Freelancer | 🚀 Job Seeker<br><br>🔧 Passionate about building impactful software, always eager to learn, and actively seeking full-time opportunities.
-
+# 💫 About Abhishek:
+💻 Software Developer | Freelancer (4+ yr Experience) | Job Seeker – Passionate about building impactful full-stack solutions & open to exciting opportunities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekxavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-shukla7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekshuklaforyou@gmail.com) 
