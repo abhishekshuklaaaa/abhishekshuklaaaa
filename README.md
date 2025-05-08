@@ -1,8 +1,12 @@
 
 <img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 
-# 💫 About Abhishek:
-💻 Software Developer | Freelancer (4+ yr Experience) | Job Seeker – Passionate about building impactful full-stack solutions & open to exciting opportunities.
+### 👋 Hello, I'm Abhishek, a Software Developer  
+- 💻 Passionate about coding and building impactful software  
+- 🌍 4+ years of freelancing experience with international clients  
+- 🔧 Skilled in full-stack development and problem-solving  
+- 🚀 Seeking full-time opportunities to grow professionally  
+- 🌱 Open to collaborations, learning, and cool projects  
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-shukla7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekshuklaforyou@gmail.com) 
